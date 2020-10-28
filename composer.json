@@ -11,7 +11,7 @@
       "drupal/admin_toolbar": "1.17.0"
     },
     "require-dev": {
-        "monolog/monolog": "^1.22"
+        "monolog/monolog": "1.22.1"
     },
     "extra": {
       "violinist": {
